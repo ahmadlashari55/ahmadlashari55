@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ahmad Lashari 👋
 
-<!--
-**ahmadlashari55/ahmadlashari55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇵🇰 Web Developer from Rahim Yar Khan, Pakistan
 
-Here are some ideas to get you started:
+## What I Do:
+- 🌐 Build websites & web apps
+- 🤖 Create chatbots & AI tools
+- 🛒 Design ecommerce solutions
+- 💡 Turn ideas into digital products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## My Projects For Sale:
+- 🤖 [Chatbot Template](https://github.com/ahmadlashari55/chatbot-site)
+- 🛒 [Wholesale Bazaar Template](https://github.com/ahmadlashari55/Wholesale-Bazaar)
+- 🔧 [Online Mechanic Website](https://github.com/ahmadlashari55/online-mechanic)
+
+## Contact Me:
+📧 ahmadrazalashari5@gmail.com
